@@ -1,0 +1,10 @@
+company: pds
+txt:
+  txtPath:
+  md5:
+  fileName:
+  txtApPath:
+  preffix: D:\\
+#  preffix: /Audio
+  allPath: D:\\test
+  outputPath: D:\\
